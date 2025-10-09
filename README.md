@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethanbst&theme=radical&locale=fr" alt="GitHub Streak d'Ethan" width="400"/>
+            <img src="https://streak-stats.demolab.com?user=Ethanbst&theme=radical" alt="GitHub Streak d'Ethan" width="400"/>
         </td>
     </tr>
     <tr>
@@ -87,7 +87,6 @@ Le serveur fonctionne en journée et passe en veille la nuit pour optimiser la c
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ethanbst&label=Vues%20du%20profil&color=blueviolet&style=for-the-badge" alt="Vues du profil" />
 <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-11-blue?style=for-the-badge" alt="Nombre de dépôts" />
-<img src="https://img.shields.io/github/commit-activity/m/Ethanbst/Ethanbst?style=for-the-badge&color=green" alt="Commits ce mois-ci" />
-</p>
+<img src="https://img.shields.io/github/commit-activity/m/Ethanbst/Ethanbst?style=for-the-badge&color=green&label=Commits%20ce%20mois-ci" alt="Commits ce mois-ci" />
 
 ---
