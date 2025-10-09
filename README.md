@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Ethan
 
 🎓 Étudiant en **Master 1 Cyber-Défense et Sécurité de l’Information** à l’**UPHF de Maubeuge**  
-💻 Passionné par la **cybersécurité**, le **développement web (Django, Vue.js, React)** et la **programmation système en C**  
+💻 Passionné par la **cybersécurité**, le **développement web (Django, Laravel, ...)** et la **programmation système en C**  
 ⚙️ Ancien stagiaire à la **CCSA**, où j’ai développé le nouveau site web officiel conforme à la norme **RGAA 4.1**  
 🎯 En recherche d’une **alternance en cybersécurité** autour de **Maubeuge, Valenciennes ou Lille**
 
@@ -18,6 +18,7 @@
 ---
 
 ## ⚙️ Stack & outils préférés
+<div align="center">
 
 | Catégorie | Outils |
 |------------|--------|
@@ -26,6 +27,7 @@
 | 🧰 DevOps & Réseau | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white) ![VLAN](https://img.shields.io/badge/VLAN-008080?style=flat) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) |
 | 🧑‍🏫 IDE | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 | 🧩 Autres | ![SDL2](https://img.shields.io/badge/SDL2-0F7D0F?style=flat) ![flake8](https://img.shields.io/badge/flake8-4B8BBE?style=flat&logo=python&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) |
+</div>
 
 ---
 
@@ -54,23 +56,31 @@
 ## 🌟 Quelques projets
 
 - 🎮 **Jeu 2D rétro (C / SDL2)**    
-*Projet de 3ème année de Licence Informatique - Note : 18.87/20*
-Menu interactif, sprites animés, système de collisions
+*Projet de 3ème année de Licence Informatique - Note : 18.87/20*    
+Menu interactif, sprites animés, système de collisions  
+<a href="https://github.com/Ethanbst/The_Lost_Project">Voir le dépôt GitHub</a>
 
 - 🌐 **Site Web de la Communauté de Communes du Sud-Avesnois**  
 *(Stage - CCSA Fourmies - Avril -> Juin)*  
 Développement complet du nouveau site web avec paramètres d'accessibilité conformes à la norme **RGAA 4.1**.  
-Responsable du backend avec **Django** : gestion de la base de données, interfaces d'administration, formulaires, affichage des données, gestion des utilisateurs et sécurité, sous la supervision de mon tuteur de stage **M. Bréchoire**.
-- ✅ **To-Do List 100% JS**     
-Animations fluides, gestion locale des tâches  
+<a href="https://github.com/Ethanbst/CCSA_Public">Voir le dépôt GitHub</a> | <a href="https://www.cc-sudavesnois.fr">Voir le site web (ANCIENNE VERSION)</a>
+
+- ⚙️ **Serveur de maison intelligente**  
+Déploiement d’un serveur domotique pour contrôler les appareils connectés via une interface web.  
+Après récupération d’un PC portable inutilisable, installation et configuration d’un serveur Home Assistant autonome sous VirtualBox.  
+Gestion centralisée de la domotique, automatisations pour le confort et la sécurité, accessible depuis tout appareil du réseau local.  
+Une tablette Android reconditionnée (LineageOS) sert de panneau de contrôle mural.  
+Le serveur fonctionne en journée et passe en veille la nuit pour optimiser la consommation d’énergie.
 
 ---
 
 ## 📫 Me contacter
 
-💼 **LinkedIn :** [Ethan — Profil LinkedIn](https://www.linkedin.com/in/)  
-📧 **Mail :** ethan@example.com *(à remplacer)*  
-🐙 **GitHub :** [github.com/Ethan-devFR](https://github.com/Ethan-devFR)
+
+<p align="center">
+    💼 <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/">Ethan Bastien - Profil LinkedIn</a><br>
+    🐙 <strong>GitHub :</strong> <a href="https://github.com/Ethanbst">github.com/ethanbst</a>
+</p>
 
 ---
 
