@@ -1,9 +1,9 @@
 # 👋 Salut, moi c’est Ethan
 
-🎓 Étudiant en **Master 1 Cyber-Défense et Sécurité de l’Information** à l’**UPHF de Maubeuge**  
+🎓 Étudiant en **Master 1 Cyber-Défense et Sécurité de l’Information** à l’**UPHF de Valenciennes**  
 💻 Passionné par la **cybersécurité**, le **développement web (Django, Laravel, ...)** et la **programmation système en C**  
 ⚙️ Ancien stagiaire à la **CCSA**, où j’ai développé le nouveau site web officiel conforme à la norme **RGAA 4.1**  
-🎯 En recherche d’une **alternance en cybersécurité** autour de **Maubeuge, Valenciennes ou Lille**
+🎯 En recherche d’une **alternance en cybersécurité** autour de **Maubeuge, Valenciennes ou Lille** pour septembre 2026
 
 ---
 
