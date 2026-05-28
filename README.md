@@ -22,34 +22,30 @@
 
 | Catégorie | Outils |
 |------------|--------|
-| 🧑‍💻 Langages | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| 🌐 Web | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| 🧰 DevOps & Réseau | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white) ![VLAN](https://img.shields.io/badge/VLAN-008080?style=flat) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) |
+| 🧑‍💻 Langages | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [...]
+| 🌐 Web | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=whit[...]
+| 🧰 DevOps & Réseau | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&l[...]
 | 🧑‍🏫 IDE | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| 🧩 Autres | ![SDL2](https://img.shields.io/badge/SDL2-0F7D0F?style=flat) ![flake8](https://img.shields.io/badge/flake8-4B8BBE?style=flat&logo=python&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) |
+| 🧩 Autres | ![SDL2](https://img.shields.io/badge/SDL2-0F7D0F?style=flat) ![flake8](https://img.shields.io/badge/flake8-4B8BBE?style=flat&logo=python&logoColor=white) ![npm](https://img.shields[...]
 </div>
 
 ---
 
 ## 📊 Mes stats GitHub
 
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Ethanbst&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub d'Ethan (français)" width="400"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://streak-stats.demolab.com?user=Ethanbst&theme=radical" alt="GitHub Streak d'Ethan" width="400"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanbst&layout=compact&theme=radical&locale=fr" alt="Langages les plus utilisés" width="400"/>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Ethanbst">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ethanbst&show_icons=true&theme=radical&locale=fr&cache_seconds=86400" alt="Statistiques GitHub d'Ethan" width="400"/>
+  </a>
+  <br>
+  <a href="https://github.com/Ethanbst">
+    <img src="https://streak-stats.demolab.com?user=Ethanbst&theme=radical&cache_seconds=86400" alt="GitHub Streak d'Ethan" width="400"/>
+  </a>
+  <br>
+  <a href="https://github.com/Ethanbst">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanbst&layout=compact&theme=radical&locale=fr&cache_seconds=86400" alt="Langages les plus utilisés" width="400"/>
+  </a>
+</p>
 
 ---
 
@@ -76,7 +72,6 @@ Le serveur fonctionne en journée et passe en veille la nuit pour optimiser la c
 
 ## 📫 Me contacter
 
-
 <p align="center">
     💼 <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/">Ethan Bastien - Profil LinkedIn</a><br>
     🐙 <strong>GitHub :</strong> <a href="https://github.com/Ethanbst">github.com/ethanbst</a>
@@ -90,3 +85,4 @@ Le serveur fonctionne en journée et passe en veille la nuit pour optimiser la c
 <img src="https://img.shields.io/github/commit-activity/m/Ethanbst/Ethanbst?style=for-the-badge&color=green&label=Commits%20ce%20mois-ci" alt="Commits ce mois-ci" />
 
 ---
+
